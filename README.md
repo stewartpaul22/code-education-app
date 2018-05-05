@@ -21,7 +21,7 @@ Some samples of existing apps for inspiration:
     http://worldpopulationhistory.org/map/1838/mercator/1/0/24/
 
 
-### To get up and running:
+### To get the app up and running:
 
 - cd into kidz_who_code_api
 
